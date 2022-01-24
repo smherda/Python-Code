@@ -1,6 +1,6 @@
-# Python-Example-Code
+# Python-Code
 
-This folder contains example code used for projects that I have worked on and were built using Python. Some scripts might need others that are not present due to discretionary reasons. 
+This folder contains code that I wrote using Python. Some scripts might need others that are not present due to discretionary reasons. 
  
 ## Installation
  
